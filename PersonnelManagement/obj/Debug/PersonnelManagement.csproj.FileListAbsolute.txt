@@ -1,0 +1,11 @@
+C:\Users\ZiS\Desktop\Программа для Чернавиной\PersonnelManagement\PersonnelManagement\bin\Debug\PersonnelManagement.exe.config
+C:\Users\ZiS\Desktop\Программа для Чернавиной\PersonnelManagement\PersonnelManagement\bin\Debug\PersonnelManagement.exe
+C:\Users\ZiS\Desktop\Программа для Чернавиной\PersonnelManagement\PersonnelManagement\bin\Debug\PersonnelManagement.pdb
+C:\Users\ZiS\Desktop\Программа для Чернавиной\PersonnelManagement\PersonnelManagement\obj\Debug\PersonnelManagement.csprojAssemblyReference.cache
+C:\Users\ZiS\Desktop\Программа для Чернавиной\PersonnelManagement\PersonnelManagement\obj\Debug\PersonnelManagement.Properties.Resources.resources
+C:\Users\ZiS\Desktop\Программа для Чернавиной\PersonnelManagement\PersonnelManagement\obj\Debug\PersonnelManagement.csproj.GenerateResource.cache
+C:\Users\ZiS\Desktop\Программа для Чернавиной\PersonnelManagement\PersonnelManagement\obj\Debug\PersonnelManagement.csproj.CoreCompileInputs.cache
+C:\Users\ZiS\Desktop\Программа для Чернавиной\PersonnelManagement\PersonnelManagement\obj\Debug\PersonnelManagement.exe
+C:\Users\ZiS\Desktop\Программа для Чернавиной\PersonnelManagement\PersonnelManagement\obj\Debug\PersonnelManagement.pdb
+C:\Users\ZiS\Desktop\Программа для Чернавиной\PersonnelManagement\PersonnelManagement\obj\Debug\PersonnelManagement.ButtonForm.resources
+C:\Users\ZiS\Desktop\Программа для Чернавиной\PersonnelManagement\PersonnelManagement\obj\Debug\PersonnelManagement.TableOverview.resources
